@@ -1,0 +1,10 @@
+{
+    "fub-eng": {
+        "input": "fub-eng-input.txt",
+        "mode": "fub-eng"
+    },
+    "eng-fub": {
+        "input": "eng-fub-input.txt",
+        "mode": "eng-fub"
+    }
+}
