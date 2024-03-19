@@ -91,6 +91,8 @@
     <sdef n="lquot"           c="Left quote"/>
     <sdef n="rquot"           c="Right quote"/>
 
+    <sdef n="cl_ɓe"           c="ɓe noun class"/>
+
     <sdef n="compound-only-L" c="May only be the left-side of a compound"/>
     <sdef n="compound-R"      c="May be the right-side of a compound, or a full word"/>
   </sdefs>
@@ -100,7 +102,80 @@
       <!-- example:
            <e><p><l>house<s n="n"/></l><r>casa<s n="n"/><s n="f"/></r></p></e>
       -->
-
+      <e><p><l>Amerikaajo<s n="n"/><s n="cl_ɓe"/></l><r>American<s n="n"/></r></p></e>
+      <e><p><l>accugo<s n="vblex"/><s n="inf"/></l><r>to leave<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p><l>accugo<s n="vblex"/><s n="inf"/></l><r>to leave off<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p><l>accugo<s n="vblex"/><s n="inf"/></l><r>to let go<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p><l>andinugo<s n="vblex"/><s n="inf"/></l><r>to inform<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p><l>andinugo<s n="vblex"/><s n="inf"/></l><r>to tell<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p><l>andugo<s n="vblex"/><s n="inf"/></l><r>to know<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p><l>baabiraawo<s n="n"/><s n="cl_ɓe"/></l><r>father<s n="n"/></r></p></e>
+      <e><p><l>baaba<s n="n"/><s n="cl_ɓe"/></l><r>father<s n="n"/></r></p></e>
+      <e><p><l>bandiraawo<s n="n"/><s n="cl_ɓe"/></l><r>blood relative<s n="n"/></r></p></e>
+      <e><p><l>biɗɗo<s n="n"/><s n="cl_ɓe"/></l><r>daughter<s n="n"/></r></p></e>
+      <e><p><l>biɗɗo<s n="n"/><s n="cl_ɓe"/></l><r>offspring<s n="n"/></r></p></e>
+      <e><p><l>biɗɗo<s n="n"/><s n="cl_ɓe"/></l><r>son<s n="n"/></r></p></e>
+      <e><p><l>buutugo<s n="vblex"/><s n="inf"/></l><r>to be inexpensive<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p><l>ɓii<s n="n"/><s n="cl_ɓe"/></l><r>offspring<s n="n"/></r></p></e>
+      <e><p><l>ɓii<s n="n"/><s n="cl_ɓe"/></l><r>son<s n="n"/></r></p></e>
+      <e><p><l>ɓii<s n="n"/><s n="cl_ɓe"/></l><r>daughter<s n="n"/></r></p></e>
+      <e><p><l>daada<s n="n"/><s n="cl_ɓe"/></l><r>mother<s n="n"/></r></p></e>
+      <e><p><l>daadiraawo<s n="n"/><s n="cl_ɓe"/></l><r>mother<s n="n"/></r></p></e>
+      <e><p><l>darugo<s n="vblex"/><s n="inf"/></l><r>to stand<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p><l>darugo<s n="vblex"/><s n="inf"/></l><r>to stop<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p><l>debbo<s n="n"/><s n="cl_ɓe"/></l><r>wife<s n="n"/></r></p></e>
+      <e><p><l>debbo<s n="n"/><s n="cl_ɓe"/></l><r>woman<s n="n"/></r></p></e>
+      <e><p><l>dewerɗiraawo<s n="n"/><s n="cl_ɓe"/></l><r>brother<s n="n"/></r></p></e>
+      <e><p><l>dewerɗiraawo<s n="n"/><s n="cl_ɓe"/></l><r>sibling<s n="n"/></r></p></e>
+      <e><p><l>dewerɗiraawo<s n="n"/><s n="cl_ɓe"/></l><r>sister<s n="n"/></r></p></e>
+      <e><p><l>ɗaanugo<s n="vblex"/><s n="inf"/></l><r>to sleep<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p><l>ɗumeejo<s n="n"/><s n="cl_ɓe"/></l><r>what nationality<s n="n"/></r></p></e>
+      <e><p><l>esiraawo<s n="n"/><s n="cl_ɓe"/></l><r>in-law<s n="n"/></r></p></e>
+      <e><p><l>goɗɗo<s n="n"/><s n="cl_ɓe"/></l><r>someone<s n="n"/></r></p></e>
+      <e><p><l>gorko<s n="n"/><s n="cl_ɓe"/></l><r>husband<s n="n"/></r></p></e>
+      <e><p><l>gorko<s n="n"/><s n="cl_ɓe"/></l><r>man<s n="n"/></r></p></e>
+      <e><p><l>Hawsaajo<s n="n"/><s n="cl_ɓe"/></l><r>Hausa person<s n="n"/></r></p></e>
+      <e><p><l>jawmu<s n="n"/><s n="cl_ɓe"/></l><r>master<s n="n"/></r></p></e>
+      <e><p><l>jawmu<s n="n"/><s n="cl_ɓe"/></l><r>owner<s n="n"/></r></p></e>
+      <e><p><l>jood'ugo<s n="vblex"/><s n="inf"/></l><r>to dwell<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p><l>jood'ugo<s n="vblex"/><s n="inf"/></l><r>to reside<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p><l>jood'ugo<s n="vblex"/><s n="inf"/></l><r>to sit<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p><l>koɗo<s n="n"/><s n="cl_ɓe"/></l><r>guest<s n="n"/></r></p></e>
+      <e><p><l>koɗo<s n="n"/><s n="cl_ɓe"/></l><r>stranger<s n="n"/></r></p></e>
+      <e><p><l>koɗo<s n="n"/><s n="cl_ɓe"/></l><r>visitor<s n="n"/></r></p></e>
+      <e><p><l>laamiiɗo<s n="n"/><s n="cl_ɓe"/></l><r>emir<s n="n"/></r></p></e>
+      <e><p><l>laamiiɗo<s n="n"/><s n="cl_ɓe"/></l><r>king<s n="n"/></r></p></e>
+      <e><p><l>maamiraawo<s n="n"/><s n="cl_ɓe"/></l><r>grandfather<s n="n"/></r></p></e>
+      <e><p><l>maamiraawo<s n="n"/><s n="cl_ɓe"/></l><r>grandmother<s n="n"/></r></p></e>
+      <e><p><l>maamiraawo<s n="n"/><s n="cl_ɓe"/></l><r>grandparent<s n="n"/></r></p></e>
+      <e><p><l>mallumjo<s n="n"/><s n="cl_ɓe"/></l><r>teacher<s n="n"/></r></p></e>
+      <e><p><l>mawɗo<s n="n"/><s n="cl_ɓe"/></l><r>a big one<s n="n"/></r></p></e>
+      <e><p><l>mawɗo<s n="n"/><s n="cl_ɓe"/></l><r>adult<s n="n"/></r></p></e>
+      <e><p><l>mawniraawo<s n="n"/><s n="cl_ɓe"/></l><r>older sibling<s n="n"/></r></p></e>
+      <e><p><l>minyiraawo<s n="n"/><s n="cl_ɓe"/></l><r>younger sibling<s n="n"/></r></p></e>
+      <e><p><l>modibbo<s n="n"/><s n="cl_ɓe"/></l><r>learned person<s n="n"/></r></p></e>
+      <e><p><l>modibbo<s n="n"/><s n="cl_ɓe"/></l><r>teacher<s n="n"/></r></p></e>
+      <e><p><l>moyjo<s n="n"/><s n="cl_ɓe"/></l><r>what type of person<s n="n"/></r></p></e>
+      <e><p><l>naa<s n="neg"/></l><r>not<s n="neg"/></r></p></e>
+      <e><p><l>nayeejo<s n="n"/><s n="cl_ɓe"/></l><r>old man<s n="n"/></r></p></e>
+      <e><p><l>ndottiijo<s n="n"/><s n="cl_ɓe"/></l><r>respected man<s n="n"/></r></p></e>
+      <e><p><l>nyaamugo<s n="vblex"/><s n="inf"/></l><r>to eat<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p><l>neɗɗo<s n="n"/><s n="cl_ɓe"/></l><r>person<s n="n"/></r></p></e>
+      <e><p><l>pukaraajo<s n="n"/><s n="cl_ɓe"/></l><r>student<s n="n"/></r></p></e>
+      <e><p><l>Pullo<s n="n"/><s n="cl_ɓe"/></l><r>Fulani<s n="n"/></r></p></e>
+      <e><p><l>roondugo<s n="vblex"/><s n="inf"/></l><r>to carry<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p><l>soobaajo<s n="n"/><s n="cl_ɓe"/></l><r>friend<s n="n"/></r></p></e>
+      <e><p><l>soodugo<s n="vblex"/><s n="inf"/></l><r>to buy<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p><l>taaniraawo<s n="n"/><s n="cl_ɓe"/></l><r>grandchild<s n="n"/></r></p></e>
+      <e><p><l>tiniiɗo<s n="n"/><s n="cl_ɓe"/></l><r>zealous person<s n="n"/></r></p></e>
+      <e><p><l>Tuurankeejo<s n="n"/><s n="cl_ɓe"/></l><r>English person<s n="n"/></r></p></e>
+      <e><p><l>Tuurankeejo<s n="n"/><s n="cl_ɓe"/></l><r>European<s n="n"/></r></p></e>
+      <e><p><l>waalugo<s n="vblex"/><s n="inf"/></l><r>to lie down<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p><l>waalugo<s n="vblex"/><s n="inf"/></l><r>to spend the night<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p><l>windugo<s n="vblex"/><s n="inf"/></l><r>to buy<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p><l>yam<s n="prn"/><s n="p1"/><s n="acc"/></l><r>me<s n="prn"/><s n="p1"/><s n="acc"/></r></p></e>
+      <e><p><l>yettugo<s n="vblex"/><s n="inf"/></l><r>to thank<s n="vblex"/><s n="inf"/></r></p></e>
+      <e><p><l>ƴamugo<s n="vblex"/><s n="inf"/></l><r>to ask<s n="vblex"/><s n="inf"/></r></p></e>
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
    </section>
